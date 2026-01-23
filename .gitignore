@@ -1,0 +1,15 @@
+# Ejecutables
+*.exe
+*.out
+*.o
+*.obj
+
+# Carpetas de VS Code o IDEs
+.vscode/
+.idea/
+bin/
+obj/
+
+# Archivos temporales
+*.log
+*.tmp
